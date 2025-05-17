@@ -1,0 +1,5 @@
+.vscode/
+.conda/
+venv/
+Developing.md
+*.h5
